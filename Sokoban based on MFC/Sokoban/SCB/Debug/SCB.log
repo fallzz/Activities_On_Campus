@@ -1,0 +1,18 @@
+﻿Build started 2018-12-22 오후 10:41:17.
+     1>Project "C:\Users\추교준\Desktop\Sokoban\SCB\SCB.vcxproj" on node 2 (Build target(s)).
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\SCB.res" SCB.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\추교준\Desktop\Sokoban\Debug\SCB.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\추교준\Desktop\Sokoban\Debug\SCB.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\추교준\Desktop\Sokoban\Debug\SCB.lib" /MACHINE:X86 Debug\SCB.res
+         Debug\MainFrm.obj
+         Debug\SCB.obj
+         Debug\SCBDoc.obj
+         Debug\SCBView.obj
+         Debug\stdafx.obj
+         LINK : C:\Users\추교준\Desktop\Sokoban\Debug\SCB.exe not found or not built by the last incremental link; performing full link
+         SCB.vcxproj -> C:\Users\추교준\Desktop\Sokoban\Debug\SCB.exe
+     1>Done Building Project "C:\Users\추교준\Desktop\Sokoban\SCB\SCB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40
